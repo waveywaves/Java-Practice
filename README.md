@@ -11,6 +11,7 @@ Java Practice
 
 `mvn archetype:generate -DgroupId=com.example.app -DartifactId=webscraping-jenkins-plugin -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false`
 
+- Add pom.xml
 
 Todo:
 - ~~Initialize Maven App~~
